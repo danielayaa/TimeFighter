@@ -4,4 +4,7 @@
     <string name="timeLeft">Time Left: %1$d</string>
     <string name="tapMe">TAP ME!!1!</string>
     <string name="gameOverMessage"> Times up! Your score was: %1$d</string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle"> Time Fighter</string>
+    <string name="aboutMessage">Created by Mr. Mason. \nInspired by Drake and Josh. \nMusic provided by Drake.</string>
 </resources>
